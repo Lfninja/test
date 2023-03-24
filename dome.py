@@ -3,7 +3,6 @@
 
 class Dome(object):
 
-    @staticmethod
     def domes():
         print('Hello World!')
 
