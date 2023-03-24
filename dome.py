@@ -3,7 +3,7 @@
 
 class Dome():
 
-    def domes():
+    def domes(self):
         print('Hello World!')
 
 
