@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 
-class Dome(object):
+class Dome():
 
     def domes():
         print('Hello World!')
